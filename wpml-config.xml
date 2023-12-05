@@ -1,0 +1,13 @@
+<wpml-config>   
+    <admin-texts>
+        <key name="helpie_core_options_main">
+            <key name="kb_main_title" />
+            <key name="kb_main_subtitle" />
+        </key>
+        <key name="helpie_components_options">
+            <key name="helpie_sidebar_title" />
+        </key>
+    </admin-texts>    
+</wpml-config>
+
+
